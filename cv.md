@@ -54,3 +54,73 @@ function sum (numbers) {
 ```
 
 ---
+
+## *Experience*
+
+### ***Trainee Frontend Developer at "IT-Academy" (KSSDA)***
+
+#### *Duration:* 
+24 March 2022 - 9 September 2022
+
+#### *Responsibilities:*
+
+- Creation of a Front-End part of a web application focused on improving the efficiency of interaction between students and teachers of the course
+- Implementing a React Web Application Using the Redux State Manager
+- Self-reliance in problem solving and self-education
+- Implementing a fullstack quiz web-application
+
+#### *Projects:*
+
+1. ***Frontend of main project:***
+   - [Live](https://intership-frontend.vercel.app/) 
+   - [Source Code](https://github.com/Chelovechina/Intership-frontend)
+
+   *Stack:*
+   - HTML
+   - CSS / SASS
+   - JavaScript
+   - React
+   - Redux
+   - Axios
+   - EditorJS
+   - React Hook Form
+
+2. ***QuizWEB***
+   - [Live](https://quiz-frontend-livid.vercel.app/)
+   - [API](http://chelovechina.pythonanywhere.com/)
+   - [Frontend Source Code](https://github.com/Chelovechina/quiz-backend)
+   - [Backend Source Code](https://github.com/Chelovechina/quiz-frontend)
+
+   *Stack:*
+   - HTML
+   - SCSS / Bootstrtap
+   - JavaScript
+   - React
+   - Redux Toolkit
+   - Axios
+   - Formik
+
+---
+
+## *Pet Projects:*
+
+1. **React-Pizza** - online pizza shop
+   - Interaction with MockAPI
+   - HTML, SCSS, JavaScript, TypeScript, React
+   - Using Redux Toolkit
+   - Transition from JavaScript to TypeScript
+   - Using various libraries
+
+   [Live](https://react-pizza-nu.vercel.app/) -----
+   [Source Code](https://github.com/Chelovechina/react-pizza)
+
+2. **NOICELAND** - Web application for viewing posts
+   - Interaction with MockAPI
+   - HTML, SCSS, JavaScript, React
+   - Using Redux Toolkit
+   - Using various libraries
+
+   [Live](https://noiceland.vercel.app/) -----
+   [Source Code](https://github.com/Chelovechina/noiceland)
+
+---
