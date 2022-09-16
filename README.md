@@ -1,1 +1,1 @@
-https://Chelovechina.github.io/rsschool-cv/cv
+https://Chelovechina.github.io/rsschool-cv/
