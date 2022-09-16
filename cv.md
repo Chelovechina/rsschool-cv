@@ -124,3 +124,22 @@ function sum (numbers) {
    [Source Code](https://github.com/Chelovechina/noiceland)
 
 ---
+
+## *Education:*
+
+[***The Humanities-Technical College of IUCA***](https://college.iuca.kg/en/)
+
+*Information Technology*
+
+- 2020 - now
+- Average GPA for 4 semester - 3.72 (max 4.0)
+
+[Link to sertificates](https://drive.google.com/drive/u/2/folders/1EwqizZ7BhBowqx5_ArMZby4g59hilyC7)
+
+---
+
+## *Languages:*
+
+- *Kyrgyz* - Native
+- *Russian* - Native
+- *English* - Pre-intermediate
